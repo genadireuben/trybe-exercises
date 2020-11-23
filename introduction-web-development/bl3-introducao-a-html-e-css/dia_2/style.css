@@ -1,0 +1,39 @@
+
+        body {
+            background-color: papayawhip;
+                    font-size: 16px;
+                    }
+            h1 {
+               font-size: 40px;
+               color: orange;
+               font-family: sans-serif;
+            }
+            
+            p {
+                font-weight: 600;
+                font-size: 3em;
+            }
+            ul {
+                background-color: papayawhip;
+            }
+            
+            .favorite-color {
+                background-color: blue;
+            }
+            
+            #yellow {
+                background-color: yellow;
+                font-size: 2em;
+                line-height: 1em;
+            }
+            #red {
+                background-color: red;
+                font-size: 2em;
+                line-height: 1em;
+            }
+            #brown {
+                background-color: brown;
+                font-size: 2em;
+                line-height: 1em;
+            }
+            
