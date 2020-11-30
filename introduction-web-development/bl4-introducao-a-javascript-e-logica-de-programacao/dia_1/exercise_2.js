@@ -1,6 +1,6 @@
 // exercício 2: qual numero é maior?
-let a = 100;
-let b = 15;
+let a = 15.001;
+let b = 15.01;
 
 // forma ternaria de se fazer
 let maiorNumero = (a>b) ? a + ' é maior que ' + b : b + 'é maior que ' + a;
