@@ -1,0 +1,23 @@
+.main-content h1{
+  background-color: red;
+  text-align: center;
+}
+.poke-list {
+display: flex;
+justify-content: space-around;
+flex-wrap: wrap;
+gap: 5%;
+
+}
+
+.pokemon {
+  background-color: blanchedalmond;
+display: flex;
+border: 1px solid grey;
+padding: 0.5em;
+min-width: 300px;
+flex-grow: 1;
+border-radius:10px;
+margin-top: 10px;
+justify-content: space-evenly;
+}
