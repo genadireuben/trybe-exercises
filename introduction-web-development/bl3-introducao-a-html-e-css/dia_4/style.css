@@ -1,0 +1,34 @@
+body {
+    background-color: lavenderblush;
+    
+}
+.header-content {
+    border: 2px solid black;
+    background-color: rgb(31, 72, 161);
+    color: rgb(219, 81, 57);
+    font-size: 150%;
+    text-align: center;
+    max-width: 100%;
+}
+
+.nav-link {
+border: 2px solid black;
+margin: 20px 20px ;
+padding: 20px 20px;
+}
+
+.shrimp-image {
+width: 400px;
+height: 300px;
+
+}
+.text {
+text-align: justify;
+}
+
+.cientific-class {
+display: table-row-group;
+float: right;
+border: 2px solid black;
+
+}
